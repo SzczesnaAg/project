@@ -1,1 +1,1 @@
-Due to the nature of my past role working with headbits, all the projects I have been the main contributor on are proprietary and private.
+Due to the nature of my past role working with headbits, all the projects I have been the main contributor on are proprietary and private. While I cannot share the source code publicly, I would be happy to discuss my technical involvement and specific front-end contributions (React/Next.js, TypeScript) during the interview.
